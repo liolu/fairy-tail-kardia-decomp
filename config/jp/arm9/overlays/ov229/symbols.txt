@@ -1,0 +1,4 @@
+func_ov229_021c55a0 kind:function(arm,size=0xa0) addr:0x021c55a0
+func_ov229_021c5640 kind:function(arm,size=0x18c) addr:0x021c5640
+func_ov229_021c57cc kind:function(arm,size=0x250) addr:0x021c57cc
+func_ov229_021c5a1c kind:function(arm,size=0x200) addr:0x021c5a1c

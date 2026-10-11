@@ -1,0 +1,11 @@
+[INFO ] Loading ROM from extract/jp/config.yaml
+[INFO ] Function at 0x0204492c was adjusted to include pre-code constant pool at 0x0204491c
+[WARN ] Local function call from 0x02006780 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x020067b8 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x02041120 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x02041230 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x020412a4 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x02041300 in ARM9 main to 0x0205e44c goes to middle of function 'func_0205e43c' at 0x0205e43c, adding an external label symbol
+[WARN ] Local function call from 0x0205af08 in ARM9 main to 0x0205e608 goes to middle of function 'func_0205e5fc' at 0x0205e5fc, adding an external label symbol
+[WARN ] Local function call from 0x0205c9dc in ARM9 main to 0x0205e608 goes to middle of function 'func_0205e5fc' at 0x0205e5fc, adding an external label symbol
+[WARN ] Local function call from 0x0205e62c in ARM9 main to 0x0205e858 goes to middle of function 'func_0205e850' at 0x0205e850, adding an external label symbol

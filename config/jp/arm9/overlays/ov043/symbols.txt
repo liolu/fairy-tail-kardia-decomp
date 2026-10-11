@@ -1,0 +1,3 @@
+data_ov043_021c3da0 kind:bss addr:0x021c3da0
+data_ov043_021c44f8 kind:bss addr:0x021c44f8
+data_ov043_021c457c kind:bss addr:0x021c457c ambiguous
