@@ -1,2 +1,45 @@
 # Source files built with another compiler than tools/configure.py MWCC_VERSION
 # <source path> <mwccarm version> [extra flags]
+src/auto/func_02007fa0.c 1.2/sp2p3
+src/auto/func_0200904c.c 1.2/sp2p3
+src/auto/func_020090b4.c 1.2/sp2p3
+src/auto/func_02009100.c 1.2/sp2p3
+src/auto/func_0200bcbc.c 1.2/sp2p3
+src/auto/func_0200bd08.c 1.2/sp2p3
+src/auto/func_0200bd54.c 1.2/sp2p3
+src/auto/func_0200bdbc.c 1.2/sp2p3
+src/auto/func_02012a18.c 1.2/sp2p3
+src/auto/func_02015004.c 1.2/sp2p3
+src/auto/func_020150e0.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02015104.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020151a4.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02015394.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02018194.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0201d600.c 1.2/sp2p3
+src/auto/func_0201fa5c.c 1.2/sp2p3
+src/auto/func_0201ff94.c 1.2/sp2p3
+src/auto/func_02022d64.c 1.2/sp2p3
+src/auto/func_020299f0.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02029a14.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02030380.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02037234.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0203fec8.c 1.2/sp2p3
+src/auto/func_02041be8.c 1.2/sp2p3
+src/auto/func_02043f6c.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02043f80.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020440a4.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020440b8.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02044114.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02044128.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0204413c.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02044150.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02044164.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02044178.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0204418c.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0204dc04.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_0204dc20.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020513e4.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020513f8.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02053898.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_020538b0.c 1.2/sp2p3 -proc arm7tdmi
+src/auto/func_02057924.c 1.2/sp2p3 -proc arm7tdmi

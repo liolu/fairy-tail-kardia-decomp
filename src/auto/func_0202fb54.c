@@ -1,0 +1,19 @@
+#include "m2c.h"
+#include "engine.h"
+
+void func_0202ecac(M2C_UNK);
+void func_0202ecbc(M2C_UNK);
+void func_0202fb84(M2C_UNK);
+M2C_UNK func_02058ad4(M2C_UNK);
+
+s32 func_0202fb54(void) {
+    s32 temp_r0;
+
+    func_0202ecac(3);
+    temp_r0 = func_02058ad4((s32) func_0202fb84);
+    if (temp_r0 == 2) {
+        return 1;
+    }
+    func_0202ecbc(temp_r0);
+    return 0;
+}
