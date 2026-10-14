@@ -11,6 +11,6 @@ s32 func_02013724(s32 arg0) {
     if (temp_r0 == 0) {
         return 0;
     }
-    *((M2C_UNK *)((s8 *)&data_02064028 + ((temp_r0 - 1) * 4))) = func_02030ffc();
+    *((M2C_UNK *) ((s8 *) &data_02064028 + ((temp_r0 - 1) * 4))) = func_02030ffc();
     return 1;
 }

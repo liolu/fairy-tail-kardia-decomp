@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 M2C_UNK func_02050190(void);
 void func_020501a4(M2C_UNK);
@@ -12,8 +12,8 @@ s32 func_02051920(void) {
     s32 var_r4;
 
     temp_r0 = func_02050190();
-    var_r4 = 0;
-    var_r1 = data_0214df34;
+    var_r4  = 0;
+    var_r1  = data_0214df34;
     if (var_r1 != NULL) {
         do {
             var_r1 = *var_r1;

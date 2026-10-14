@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 M2C_UNK func_020229ac(M2C_UNK, M2C_UNK);
 
@@ -18,7 +18,7 @@ loop_1:
             goto block_7;
         }
     } else {
-block_7:
+    block_7:
         var_r4 += 1;
         if (var_r4 < 0x17) {
             goto loop_1;

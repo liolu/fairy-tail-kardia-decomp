@@ -16,29 +16,29 @@ void func_0201f66c(M2C_UNK arg0, M2C_UNK arg1, M2C_UNK arg2, M2C_UNK arg3, s32 a
     M2C_UNK var_r5;
     u32 temp_r0;
 
-    var_r4 = saved_reg_r4;
-    var_r5 = saved_reg_r5;
+    var_r4                                  = saved_reg_r4;
+    var_r5                                  = saved_reg_r5;
     M2C_FIELD(&data_02141334, s32 *, 0x4BC) = (s32) (data_0208cb24 & 1);
-    temp_r0 = func_0202afbc();
+    temp_r0                                 = func_0202afbc();
     switch (temp_r0) {
-    default:
-        break;
-    case 0:
-        var_r5 = arg0;
-        var_r4 = 0;
-        break;
-    case 1:
-        var_r5 = arg1;
-        var_r4 = 1;
-        break;
-    case 2:
-        var_r5 = arg2;
-        var_r4 = 2;
-        break;
-    case 3:
-        var_r5 = arg3;
-        var_r4 = 3;
-        break;
+        default:
+            break;
+        case 0:
+            var_r5 = arg0;
+            var_r4 = 0;
+            break;
+        case 1:
+            var_r5 = arg1;
+            var_r4 = 1;
+            break;
+        case 2:
+            var_r5 = arg2;
+            var_r4 = 2;
+            break;
+        case 3:
+            var_r5 = arg3;
+            var_r4 = 3;
+            break;
     }
     if (arg6 == 0) {
         if (arg5 != 0) {

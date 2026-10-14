@@ -8,7 +8,7 @@ s32 func_0205690c(s32 arg0, M2C_UNK arg1, s32 arg2, M2C_UNK arg3) {
     void *temp_r0;
     void *var_r0;
 
-    var_r7 = 5;
+    var_r7  = 5;
     temp_r0 = func_0203fdac();
     if (((u32) (M2C_FIELD(temp_r0, s32 *, 0xC) << 0x1F) >> 0x1F) != 0) {
         var_r0 = temp_r0 + 0xA30;

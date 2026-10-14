@@ -16,7 +16,7 @@ s32 func_02015330(s32 arg0) {
         }
     } else if (arg0 == -1) {
         var_r4 = 1;
-    } else if (*((M2C_UNK *)((s8 *)&data_0213349c + (arg0 * 4))) != 0) {
+    } else if (*((M2C_UNK *) ((s8 *) &data_0213349c + (arg0 * 4))) != 0) {
         var_r4 = 1;
     }
     return var_r4;

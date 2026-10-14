@@ -21,7 +21,7 @@ void func_020457cc(M2C_UNK arg0) {
         var_ip += 1;
     } while ((u32) var_ip < 0x10U);
     data_0214d844 = 0;
-    var_r6 = 1;
+    var_r6        = 1;
     do {
         temp_r0 = func_02057bec(arg0, var_r6);
         if ((temp_r0 != NULL) && (temp_r1 = *temp_r0, (temp_r1 != 0xFFFF)) && (temp_r1 != 0)) {

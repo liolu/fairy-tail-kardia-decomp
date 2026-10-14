@@ -7,7 +7,7 @@ M2C_UNK *func_02031b80(M2C_UNK arg0) {
     M2C_UNK *var_r4;
     s32 temp_r0;
 
-    var_r4 = &data_02145334;
+    var_r4  = &data_02145334;
     temp_r0 = func_02031b18(&data_02145334, arg0);
     if (temp_r0 != 0) {
         var_r4 = temp_r0 + 0xC;

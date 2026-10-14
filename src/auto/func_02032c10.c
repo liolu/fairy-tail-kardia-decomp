@@ -1,10 +1,10 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 void func_02032c10(s32 arg0) {
     M2C_UNK (*temp_r1)(arg0);
 
-    temp_r1 = M2C_FIELD(arg0, M2C_UNK (**)(), 0x10);
+    temp_r1 = M2C_FIELD(arg0, M2C_UNK(**)(), 0x10);
     if (temp_r1 != NULL) {
         temp_r1(arg0);
     }

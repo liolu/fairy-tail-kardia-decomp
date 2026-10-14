@@ -14,8 +14,9 @@ s32 func_02023c60(M2C_UNK arg0) {
     var_r8 = 0;
     do {
         var_r6 = 0;
-loop_2:
-        if ((func_02021028(var_r6) != 1) || (var_r8 != func_020210f8(var_r6)) || ((func_02021ac0(arg0, var_r6) != 0) && (func_02021b28(arg0, var_r6) != 0))) {
+    loop_2:
+        if ((func_02021028(var_r6) != 1) || (var_r8 != func_020210f8(var_r6)) ||
+            ((func_02021ac0(arg0, var_r6) != 0) && (func_02021b28(arg0, var_r6) != 0))) {
             var_r6 += 1;
             if (var_r6 < 0x14A) {
                 goto loop_2;

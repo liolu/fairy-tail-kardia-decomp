@@ -23,21 +23,21 @@ void func_0201b9e8(void) {
             }
             temp_r0_3 = M2C_FIELD(temp_r4, s32 *, 0);
             switch (temp_r0_3) {                    /* irregular */
-            case 2:
-                func_0201b8ec(temp_r4, 0, 1, 1);
-                break;
-            case 3:
-                func_0201b94c(temp_r4, 0, 1, 1);
-                break;
-            case 4:
-                func_0201b96c(temp_r4, 0, 1, 1);
-                break;
+                case 2:
+                    func_0201b8ec(temp_r4, 0, 1, 1);
+                    break;
+                case 3:
+                    func_0201b94c(temp_r4, 0, 1, 1);
+                    break;
+                case 4:
+                    func_0201b96c(temp_r4, 0, 1, 1);
+                    break;
             }
             temp_r1 = M2C_FIELD(temp_r4, void **, 4);
             if (temp_r1 == NULL) {
                 return;
             }
-            M2C_FIELD(temp_r1, s32 *, 0) = (s32) M2C_FIELD(temp_r4, s32 *, 0x10);
+            M2C_FIELD(temp_r1, s32 *, 0)                        = (s32) M2C_FIELD(temp_r4, s32 *, 0x10);
             M2C_FIELD(M2C_FIELD(temp_r4, void **, 4), s32 *, 4) = (s32) M2C_FIELD(temp_r4, s32 *, 0x14);
             M2C_FIELD(M2C_FIELD(temp_r4, void **, 4), s32 *, 8) = (s32) M2C_FIELD(temp_r4, s32 *, 0x18);
         }

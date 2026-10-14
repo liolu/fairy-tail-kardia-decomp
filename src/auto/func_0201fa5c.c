@@ -15,9 +15,9 @@ s32 func_0201fa5c(s32 arg0, s32 arg1, s32 arg2) {
     }
     if (arg1 == arg0) {
         if (M2C_FIELD(&data_02141334, s32 *, 0x4BC) == 0) {
-            var_r0 = *((M2C_UNK *)((s8 *)&data_020869bc + (var_r2 * 8)));
+            var_r0 = *((M2C_UNK *) ((s8 *) &data_020869bc + (var_r2 * 8)));
         } else {
-            var_r0 = *((M2C_UNK *)((s8 *)&data_020869c0 + (var_r2 * 8)));
+            var_r0 = *((M2C_UNK *) ((s8 *) &data_020869c0 + (var_r2 * 8)));
         }
         return var_r0;
     }

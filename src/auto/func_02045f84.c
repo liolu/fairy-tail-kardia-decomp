@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 s32 func_02045f84(s32 arg0) {
     if (((u32) arg0 >= 1U) && ((u32) arg0 <= 0xFU)) {
