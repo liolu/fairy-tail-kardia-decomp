@@ -21,13 +21,8 @@ func_ov081_021b1c04 kind:function(arm,size=0x3d8) addr:0x021b1c04
 func_ov081_021b1fdc kind:function(arm,size=0x140) addr:0x021b1fdc
 func_ov081_021b211c kind:function(arm,size=0x7c4) addr:0x021b211c
 data_ov081_021b2900 kind:data(any) addr:0x021b2900
-data_ov081_021b2903 kind:data(any) addr:0x021b2903
-data_ov081_021b2906 kind:data(any) addr:0x021b2906
-data_ov081_021b2907 kind:data(any) addr:0x021b2907
 data_ov081_021b2910 kind:data(any) addr:0x021b2910
-data_ov081_021b291a kind:data(any) addr:0x021b291a
 data_ov081_021b2924 kind:data(any) addr:0x021b2924
-data_ov081_021b292e kind:data(any) addr:0x021b292e
 data_ov081_021b2938 kind:data(any) addr:0x021b2938 ambiguous
 data_ov081_021b293a kind:data(any) addr:0x021b293a
 data_ov081_021b293c kind:data(any) addr:0x021b293c
@@ -42,7 +37,6 @@ data_ov081_021b29e4 kind:data(any) addr:0x021b29e4 ambiguous
 data_ov081_021b2a20 kind:data(any) addr:0x021b2a20 ambiguous
 data_ov081_021b2aac kind:data(any) addr:0x021b2aac
 data_ov081_021b2b58 kind:data(any) addr:0x021b2b58 ambiguous
-data_ov081_021b2b9e kind:data(any) addr:0x021b2b9e ambiguous
 data_ov081_021b2bb8 kind:data(any) addr:0x021b2bb8 ambiguous
 data_ov081_021b2bfc kind:data(any) addr:0x021b2bfc ambiguous
 data_ov081_021b2c58 kind:data(any) addr:0x021b2c58 ambiguous
@@ -54,5 +48,3 @@ data_ov081_021b2e60 kind:bss addr:0x021b2e60
 data_ov081_021b2e64 kind:bss addr:0x021b2e64
 data_ov081_021b2e68 kind:bss addr:0x021b2e68
 data_ov081_021b2e6c kind:bss addr:0x021b2e6c
-data_ov081_021b2e6e kind:bss addr:0x021b2e6e
-data_ov081_021b2e6f kind:bss addr:0x021b2e6f

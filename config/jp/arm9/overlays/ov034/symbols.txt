@@ -205,11 +205,8 @@ data_ov034_021602d4 kind:data(any) addr:0x021602d4
 data_ov034_021602e4 kind:data(any) addr:0x021602e4
 data_ov034_02160314 kind:data(any) addr:0x02160314
 data_ov034_02160360 kind:data(any) addr:0x02160360
-data_ov034_02160366 kind:data(any) addr:0x02160366
 data_ov034_0216036c kind:data(any) addr:0x0216036c
-data_ov034_02160372 kind:data(any) addr:0x02160372
 data_ov034_02160378 kind:data(any) addr:0x02160378
-data_ov034_0216037e kind:data(any) addr:0x0216037e
 data_ov034_02160384 kind:data(any) addr:0x02160384
 data_ov034_0216038c kind:data(any) addr:0x0216038c
 data_ov034_02160390 kind:data(any) addr:0x02160390

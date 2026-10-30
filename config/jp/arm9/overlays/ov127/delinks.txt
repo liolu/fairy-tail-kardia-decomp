@@ -2,3 +2,83 @@
     .ctor       start:0x021bc7d8 end:0x021bc7d8 kind:rodata align:4
     .data       start:0x021bc7e0 end:0x021bcca0 kind:data align:32
     .bss        start:0x021bcca0 end:0x021bccc0 kind:bss align:32
+
+src/data/ov127_bss_021bcca0.c:
+    complete
+    .bss        start:0x021bcca0 end:0x021bcca4
+
+src/data/ov127_bss_021bcca4.c:
+    complete
+    .bss        start:0x021bcca4 end:0x021bcca8
+
+src/data/ov127_bss_021bcca8.c:
+    complete
+    .bss        start:0x021bcca8 end:0x021bccc0
+
+src/data/ov127_data_021bc7e0.c:
+    complete
+    .data       start:0x021bc7e0 end:0x021bc7fc
+
+src/data/ov127_data_021bc7fc.c:
+    complete
+    .data       start:0x021bc7fc end:0x021bc804
+
+src/data/ov127_data_021bc804.c:
+    complete
+    .data       start:0x021bc804 end:0x021bc808
+
+src/data/ov127_data_021bc80c.c:
+    complete
+    .data       start:0x021bc80c end:0x021bc814
+
+src/data/ov127_data_021bc814.c:
+    complete
+    .data       start:0x021bc814 end:0x021bc830
+
+src/data/ov127_data_021bc830.c:
+    complete
+    .data       start:0x021bc830 end:0x021bc834
+
+src/data/ov127_data_021bc834.c:
+    complete
+    .data       start:0x021bc834 end:0x021bc854
+
+src/data/ov127_data_021bc854.c:
+    complete
+    .data       start:0x021bc854 end:0x021bc894
+
+src/data/ov127_data_021bc894.c:
+    complete
+    .data       start:0x021bc894 end:0x021bc8d0
+
+src/data/ov127_data_021bc8d0.c:
+    complete
+    .data       start:0x021bc8d0 end:0x021bc90c
+
+src/data/ov127_data_021bc90c.c:
+    complete
+    .data       start:0x021bc90c end:0x021bc9b8
+
+src/data/ov127_data_021bc9b8.c:
+    complete
+    .data       start:0x021bc9b8 end:0x021bc9f8
+
+src/data/ov127_data_021bc9f8.c:
+    complete
+    .data       start:0x021bc9f8 end:0x021bcb98
+
+src/data/ov127_data_021bcb98.c:
+    complete
+    .data       start:0x021bcb98 end:0x021bcbf8
+
+src/data/ov127_data_021bcbf8.c:
+    complete
+    .data       start:0x021bcbf8 end:0x021bcc98
+
+src/data/ov127_data_021bcc98.c:
+    complete
+    .data       start:0x021bcc98 end:0x021bcca0
+
+src/data/ov127_data_021bc808.c:
+    complete
+    .data       start:0x021bc808 end:0x021bc80c

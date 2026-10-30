@@ -205,6 +205,6 @@ data_ov026_0215ee50 kind:data(any) addr:0x0215ee50
 data_ov026_0215eedc kind:data(any) addr:0x0215eedc
 data_ov026_0215ef68 kind:data(any) addr:0x0215ef68
 data_ov026_0215eff4 kind:data(any) addr:0x0215eff4
-data_ov026_0215f023 kind:data(any) addr:0x0215f023 ambiguous
 data_ov026_0215f0bc kind:data(any) addr:0x0215f0bc
 data_ov026_0215f0e0 kind:bss addr:0x0215f0e0
+data_ov026_0215ec80 kind:data(any) addr:0x0215ec80

@@ -1,0 +1,11 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov063_021bc804[];
+extern u8 data_ov063_021bc808[];
+
+u32 data_ov063_021bc458[2]  = {(u32) &data_ov063_021bc808, (u32) &data_ov063_021bc804};
+u32 data_ov063_021bc460[30] = {0x06A406A3, 0x06A606A5, 0x06A806A7, 0x06AA06A9, 0x06AC06AB, 0x06C106AD, 0x06BC06BB, 0x06BE06BD,
+                               0x06C006BF, 0x06C906C2, 0x06CB06CA, 0x06CD06CC, 0x06CF06CE, 0x06C406C3, 0x06B106B0, 0x06B306B2,
+                               0x06B506B4, 0x06B606AE, 0x06B806B7, 0x06B206B9, 0x06AF06BA, 0x06D106D0, 0x06D306D2, 0x06D506D4,
+                               0x070B06D6, 0x070D070C, 0x070F070E, 0x071006C5, 0x07120711, 0x07140713};

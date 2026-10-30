@@ -2,3 +2,87 @@
     .ctor       start:0x021c1770 end:0x021c1770 kind:rodata align:4
     .data       start:0x021c1780 end:0x021c1ca0 kind:data align:32
     .bss        start:0x021c1ca0 end:0x021c1cc0 kind:bss align:32
+
+src/data/ov172_bss_021c1ca0.c:
+    complete
+    .bss        start:0x021c1ca0 end:0x021c1ca4
+
+src/data/ov172_bss_021c1ca4.c:
+    complete
+    .bss        start:0x021c1ca4 end:0x021c1ca8
+
+src/data/ov172_bss_021c1ca8.c:
+    complete
+    .bss        start:0x021c1ca8 end:0x021c1cb8
+
+src/data/ov172_bss_021c1cb8.c:
+    complete
+    .bss        start:0x021c1cb8 end:0x021c1cc0
+
+src/data/ov172_data_021c1780.c:
+    complete
+    .data       start:0x021c1780 end:0x021c17ac
+
+src/data/ov172_data_021c17ac.c:
+    complete
+    .data       start:0x021c17ac end:0x021c17cc
+
+src/data/ov172_data_021c17cc.c:
+    complete
+    .data       start:0x021c17cc end:0x021c17dc
+
+src/data/ov172_data_021c17dc.c:
+    complete
+    .data       start:0x021c17dc end:0x021c1814
+
+src/data/ov172_data_021c1818.c:
+    complete
+    .data       start:0x021c1818 end:0x021c1824
+
+src/data/ov172_data_021c1824.c:
+    complete
+    .data       start:0x021c1824 end:0x021c182c
+
+src/data/ov172_data_021c182c.c:
+    complete
+    .data       start:0x021c182c end:0x021c1834
+
+src/data/ov172_data_021c1834.c:
+    complete
+    .data       start:0x021c1834 end:0x021c1858
+
+src/data/ov172_data_021c1858.c:
+    complete
+    .data       start:0x021c1858 end:0x021c192c
+
+src/data/ov172_data_021c192c.c:
+    complete
+    .data       start:0x021c192c end:0x021c196c
+
+src/data/ov172_data_021c196c.c:
+    complete
+    .data       start:0x021c196c end:0x021c19d8
+
+src/data/ov172_data_021c19d8.c:
+    complete
+    .data       start:0x021c19d8 end:0x021c1a18
+
+src/data/ov172_data_021c1a18.c:
+    complete
+    .data       start:0x021c1a18 end:0x021c1bb8
+
+src/data/ov172_data_021c1bb8.c:
+    complete
+    .data       start:0x021c1bb8 end:0x021c1c18
+
+src/data/ov172_data_021c1c18.c:
+    complete
+    .data       start:0x021c1c18 end:0x021c1c5c
+
+src/data/ov172_data_021c1c5c.c:
+    complete
+    .data       start:0x021c1c5c end:0x021c1ca0
+
+src/data/ov172_data_021c1814.c:
+    complete
+    .data       start:0x021c1814 end:0x021c1818

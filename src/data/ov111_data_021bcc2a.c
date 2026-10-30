@@ -1,0 +1,4 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+u16 data_ov111_021bcc2a[7] = {0x4737, 0x4948, 0x4B4A, 0x4D4C, 0x4F4E, 0x5150, 0x5352};

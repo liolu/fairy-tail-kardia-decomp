@@ -25,3 +25,5 @@ func_ov204_021c4fdc kind:function(arm,size=0x44) addr:0x021c4fdc
 func_ov204_021c5020 kind:function(arm,size=0xd8) addr:0x021c5020
 func_ov204_021c50f8 kind:function(arm,size=0xe8) addr:0x021c50f8
 func_ov204_021c51e0 kind:function(arm,size=0x44) addr:0x021c51e0
+data_ov204_021c5240 kind:data(any) addr:0x021c5240
+data_ov204_021c5260 kind:bss addr:0x021c5260

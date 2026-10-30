@@ -21,22 +21,14 @@ func_ov078_021b6bd8 kind:function(arm,size=0x248) addr:0x021b6bd8
 func_ov078_021b6e20 kind:function(arm,size=0xb8) addr:0x021b6e20
 func_ov078_021b6ed8 kind:function(arm,size=0x7cc) addr:0x021b6ed8
 data_ov078_021b76c0 kind:data(any) addr:0x021b76c0
-data_ov078_021b76ce kind:data(any) addr:0x021b76ce
 data_ov078_021b76d8 kind:data(any) addr:0x021b76d8
-data_ov078_021b76e2 kind:data(any) addr:0x021b76e2
-data_ov078_021b76eb kind:data(any) addr:0x021b76eb
 data_ov078_021b76ec kind:data(any) addr:0x021b76ec
-data_ov078_021b76ed kind:data(any) addr:0x021b76ed
 data_ov078_021b76fc kind:data(any) addr:0x021b76fc
 data_ov078_021b7714 kind:data(any) addr:0x021b7714
-data_ov078_021b7716 kind:data(any) addr:0x021b7716
-data_ov078_021b771f kind:data(any) addr:0x021b771f ambiguous
 data_ov078_021b7728 kind:data(any) addr:0x021b7728
 data_ov078_021b773c kind:data(any) addr:0x021b773c ambiguous
-data_ov078_021b773f kind:data(any) addr:0x021b773f ambiguous
 data_ov078_021b776c kind:data(any) addr:0x021b776c
 data_ov078_021b778c kind:data(any) addr:0x021b778c ambiguous
-data_ov078_021b77bf kind:data(any) addr:0x021b77bf ambiguous
 data_ov078_021b77e4 kind:data(any) addr:0x021b77e4 ambiguous
 data_ov078_021b77ec kind:data(any) addr:0x021b77ec ambiguous
 data_ov078_021b77f4 kind:data(any) addr:0x021b77f4 ambiguous
@@ -52,12 +44,9 @@ data_ov078_021b7a04 kind:data(any) addr:0x021b7a04 ambiguous
 data_ov078_021b7a40 kind:data(any) addr:0x021b7a40 ambiguous
 data_ov078_021b7acc kind:data(any) addr:0x021b7acc ambiguous
 data_ov078_021b7b78 kind:data(any) addr:0x021b7b78 ambiguous
-data_ov078_021b7bbe kind:data(any) addr:0x021b7bbe ambiguous
 data_ov078_021b7bd8 kind:data(any) addr:0x021b7bd8 ambiguous
 data_ov078_021b7c1c kind:data(any) addr:0x021b7c1c ambiguous
 data_ov078_021b7c20 kind:bss addr:0x021b7c20
 data_ov078_021b7c24 kind:bss addr:0x021b7c24
 data_ov078_021b7c28 kind:bss addr:0x021b7c28
 data_ov078_021b7c2c kind:bss addr:0x021b7c2c
-data_ov078_021b7c2e kind:bss addr:0x021b7c2e
-data_ov078_021b7c2f kind:bss addr:0x021b7c2f

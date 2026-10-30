@@ -72,11 +72,11 @@ from:0x02158cc4 kind:arm_call to:0x0200bf80 module:main
 from:0x02158cd4 kind:arm_call to:0x0200c210 module:main
 from:0x02158ce4 kind:arm_call to:0x0200bf90 module:main
 from:0x02158cf8 kind:arm_call to:0x0200c024 module:main
-from:0x02158d18 kind:load to:0x02160366 module:overlay(34)
+from:0x02158d18 kind:load to:0x02160360 add:0x6 module:overlay(34)
 from:0x02158d1c kind:load to:0x0216036c module:overlay(34)
-from:0x02158d20 kind:load to:0x02160372 module:overlay(34)
+from:0x02158d20 kind:load to:0x0216036c add:0x6 module:overlay(34)
 from:0x02158d24 kind:load to:0x02160378 module:overlay(34)
-from:0x02158d28 kind:load to:0x0216037e module:overlay(34)
+from:0x02158d28 kind:load to:0x02160378 add:0x6 module:overlay(34)
 from:0x02158d2c kind:load to:0x02160384 module:overlay(34)
 from:0x02158d30 kind:load to:0x02160360 module:overlay(34)
 from:0x02158d3c kind:load to:0x021582fc module:overlay(34)

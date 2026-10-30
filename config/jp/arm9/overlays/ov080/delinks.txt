@@ -2,3 +2,83 @@
     .ctor       start:0x021c16e4 end:0x021c16e4 kind:rodata align:4
     .data       start:0x021c1700 end:0x021c1c60 kind:data align:32
     .bss        start:0x021c1c60 end:0x021c1c80 kind:bss align:32
+
+src/data/ov080_bss_021c1c60.c:
+    complete
+    .bss        start:0x021c1c60 end:0x021c1c64
+
+src/data/ov080_bss_021c1c64.c:
+    complete
+    .bss        start:0x021c1c64 end:0x021c1c68
+
+src/data/ov080_bss_021c1c68.c:
+    complete
+    .bss        start:0x021c1c68 end:0x021c1c80
+
+src/data/ov080_data_021c1700.c:
+    complete
+    .data       start:0x021c1700 end:0x021c1718
+
+src/data/ov080_data_021c1718.c:
+    complete
+    .data       start:0x021c1718 end:0x021c172c
+
+src/data/ov080_data_021c172c.c:
+    complete
+    .data       start:0x021c172c end:0x021c1754
+
+src/data/ov080_data_021c1754.c:
+    complete
+    .data       start:0x021c1754 end:0x021c1768
+
+src/data/ov080_data_021c1768.c:
+    complete
+    .data       start:0x021c1768 end:0x021c17ac
+
+src/data/ov080_data_021c17ac.c:
+    complete
+    .data       start:0x021c17ac end:0x021c1824
+
+src/data/ov080_data_021c1824.c:
+    complete
+    .data       start:0x021c1824 end:0x021c182c
+
+src/data/ov080_data_021c182c.c:
+    complete
+    .data       start:0x021c182c end:0x021c1834
+
+src/data/ov080_data_021c1834.c:
+    complete
+    .data       start:0x021c1834 end:0x021c1858
+
+src/data/ov080_data_021c1858.c:
+    complete
+    .data       start:0x021c1858 end:0x021c18d8
+
+src/data/ov080_data_021c18d8.c:
+    complete
+    .data       start:0x021c18d8 end:0x021c1998
+
+src/data/ov080_data_021c1998.c:
+    complete
+    .data       start:0x021c1998 end:0x021c19d8
+
+src/data/ov080_data_021c19d8.c:
+    complete
+    .data       start:0x021c19d8 end:0x021c1a18
+
+src/data/ov080_data_021c1a18.c:
+    complete
+    .data       start:0x021c1a18 end:0x021c1bb8
+
+src/data/ov080_data_021c1bb8.c:
+    complete
+    .data       start:0x021c1bb8 end:0x021c1c18
+
+src/data/ov080_data_021c1c18.c:
+    complete
+    .data       start:0x021c1c18 end:0x021c1c5c
+
+src/data/ov080_data_021c1c5c.c:
+    complete
+    .data       start:0x021c1c5c end:0x021c1c60

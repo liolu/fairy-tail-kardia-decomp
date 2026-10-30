@@ -1,0 +1,24 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov163_021bd0f0[];
+extern u8 data_ov163_021bd420[];
+extern u8 data_ov163_021bd424[];
+extern u8 data_ov163_021bd428[];
+extern u8 data_ov163_021bd42c[];
+
+u32 data_ov163_021bce74[5]  = {0x00000002, 0x000012BC, 0x0000132C, 0x00001336, 0x000012BC};
+u32 data_ov163_021bce88[7]  = {0x0000132A,
+                               0x00000043,
+                               (u32) &data_ov163_021bd0f0,
+                               (u32) &data_ov163_021bd428,
+                               (u32) &data_ov163_021bd420,
+                               (u32) &data_ov163_021bd424,
+                               (u32) &data_ov163_021bd42c};
+u32 data_ov163_021bcea4[57] = {
+    0x12C912C8, 0x12CB12CA, 0x12CD12CC, 0x12CF12CE, 0x12D112D0, 0x12E212D2, 0x12DF12DE, 0x12E112E0, 0x12EA12E3, 0x12EC12EB,
+    0x12E412ED, 0x12D312E5, 0x12D512D4, 0x12D712D6, 0x12D912D8, 0x12DB12DA, 0x12D512DC, 0x12E612DD, 0x12EE12EE, 0x12EE12EE,
+    0x12EF12EF, 0x12EF12EF, 0x12F112F0, 0x12F112F1, 0x12F112F1, 0x12F212F1, 0x133412F3, 0x13361335, 0x132E132D, 0x1330132F,
+    0x13321331, 0x12F91333, 0x12FB12FA, 0x12FD12FC, 0x12FD12FD, 0x12FF12FE, 0x13011300, 0x13031302, 0x12F41304, 0x12F612F5,
+    0x12F812F7, 0x12E712F8, 0x12E912E8, 0x130512E9, 0x13071306, 0x13091308, 0x130B130A, 0x130D130C, 0x130F130E, 0x13111310,
+    0x13131312, 0x13141313, 0x13151316, 0x13171317, 0x13181318, 0x13191319, 0x1321131A};

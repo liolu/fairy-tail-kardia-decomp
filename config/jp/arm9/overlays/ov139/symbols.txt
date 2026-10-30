@@ -19,21 +19,14 @@ func_ov139_021bb900 kind:function(arm,size=0x538) addr:0x021bb900
 func_ov139_021bbe38 kind:function(arm,size=0xf4) addr:0x021bbe38
 func_ov139_021bbf2c kind:function(arm,size=0x77c) addr:0x021bbf2c
 data_ov139_021bc6c0 kind:data(any) addr:0x021bc6c0
-data_ov139_021bc6c5 kind:data(any) addr:0x021bc6c5
 data_ov139_021bc6c8 kind:data(any) addr:0x021bc6c8
-data_ov139_021bc6d2 kind:data(any) addr:0x021bc6d2
 data_ov139_021bc6dc kind:data(any) addr:0x021bc6dc
-data_ov139_021bc6e6 kind:data(any) addr:0x021bc6e6
 data_ov139_021bc6f4 kind:data(any) addr:0x021bc6f4
 data_ov139_021bc708 kind:data(any) addr:0x021bc708
-data_ov139_021bc70a kind:data(any) addr:0x021bc70a
 data_ov139_021bc71c kind:data(any) addr:0x021bc71c ambiguous
-data_ov139_021bc73f kind:data(any) addr:0x021bc73f ambiguous
 data_ov139_021bc74c kind:data(any) addr:0x021bc74c
 data_ov139_021bc75c kind:data(any) addr:0x021bc75c ambiguous
-data_ov139_021bc75f kind:data(any) addr:0x021bc75f ambiguous
 data_ov139_021bc7ac kind:data(any) addr:0x021bc7ac ambiguous
-data_ov139_021bc7df kind:data(any) addr:0x021bc7df ambiguous
 data_ov139_021bc804 kind:data(any) addr:0x021bc804 ambiguous
 data_ov139_021bc80c kind:data(any) addr:0x021bc80c ambiguous
 data_ov139_021bc814 kind:data(any) addr:0x021bc814 ambiguous
@@ -50,7 +43,6 @@ data_ov139_021bca24 kind:data(any) addr:0x021bca24 ambiguous
 data_ov139_021bca60 kind:data(any) addr:0x021bca60 ambiguous
 data_ov139_021bcaec kind:data(any) addr:0x021bcaec ambiguous
 data_ov139_021bcb98 kind:data(any) addr:0x021bcb98 ambiguous
-data_ov139_021bcbde kind:data(any) addr:0x021bcbde ambiguous
 data_ov139_021bcbf8 kind:data(any) addr:0x021bcbf8 ambiguous
 data_ov139_021bcc3c kind:data(any) addr:0x021bcc3c ambiguous
 data_ov139_021bcc98 kind:data(any) addr:0x021bcc98 ambiguous
@@ -58,5 +50,3 @@ data_ov139_021bcca0 kind:bss addr:0x021bcca0
 data_ov139_021bcca4 kind:bss addr:0x021bcca4
 data_ov139_021bcca8 kind:bss addr:0x021bcca8
 data_ov139_021bccac kind:bss addr:0x021bccac
-data_ov139_021bccae kind:bss addr:0x021bccae
-data_ov139_021bccaf kind:bss addr:0x021bccaf

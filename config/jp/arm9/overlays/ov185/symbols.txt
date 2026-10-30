@@ -18,7 +18,6 @@ data_ov185_021b01f8 kind:data(any) addr:0x021b01f8 ambiguous
 data_ov185_021b0200 kind:data(any) addr:0x021b0200 ambiguous
 data_ov185_021b0208 kind:data(any) addr:0x021b0208
 data_ov185_021b0214 kind:data(any) addr:0x021b0214 ambiguous
-data_ov185_021b024b kind:data(any) addr:0x021b024b ambiguous
 data_ov185_021b02fc kind:data(any) addr:0x021b02fc ambiguous
 data_ov185_021b0340 kind:bss addr:0x021b0340
 data_ov185_021b0344 kind:bss addr:0x021b0344

@@ -2,3 +2,79 @@
     .ctor       start:0x021bc6a8 end:0x021bc6a8 kind:rodata align:4
     .data       start:0x021bc6c0 end:0x021bcca0 kind:data align:32
     .bss        start:0x021bcca0 end:0x021bccc0 kind:bss align:32
+
+src/data/ov139_bss_021bcca0.c:
+    complete
+    .bss        start:0x021bcca0 end:0x021bcca4
+
+src/data/ov139_bss_021bcca4.c:
+    complete
+    .bss        start:0x021bcca4 end:0x021bcca8
+
+src/data/ov139_bss_021bcca8.c:
+    complete
+    .bss        start:0x021bcca8 end:0x021bccc0
+
+src/data/ov139_data_021bc6c0.c:
+    complete
+    .data       start:0x021bc6c0 end:0x021bc6f4
+
+src/data/ov139_data_021bc6f4.c:
+    complete
+    .data       start:0x021bc6f4 end:0x021bc708
+
+src/data/ov139_data_021bc708.c:
+    complete
+    .data       start:0x021bc708 end:0x021bc74c
+
+src/data/ov139_data_021bc74c.c:
+    complete
+    .data       start:0x021bc74c end:0x021bc804
+
+src/data/ov139_data_021bc804.c:
+    complete
+    .data       start:0x021bc804 end:0x021bc80c
+
+src/data/ov139_data_021bc80c.c:
+    complete
+    .data       start:0x021bc80c end:0x021bc814
+
+src/data/ov139_data_021bc814.c:
+    complete
+    .data       start:0x021bc814 end:0x021bc838
+
+src/data/ov139_data_021bc838.c:
+    complete
+    .data       start:0x021bc838 end:0x021bc854
+
+src/data/ov139_data_021bc854.c:
+    complete
+    .data       start:0x021bc854 end:0x021bc90c
+
+src/data/ov139_data_021bc90c.c:
+    complete
+    .data       start:0x021bc90c end:0x021bc978
+
+src/data/ov139_data_021bc978.c:
+    complete
+    .data       start:0x021bc978 end:0x021bc99c
+
+src/data/ov139_data_021bc99c.c:
+    complete
+    .data       start:0x021bc99c end:0x021bc9f8
+
+src/data/ov139_data_021bc9f8.c:
+    complete
+    .data       start:0x021bc9f8 end:0x021bcb98
+
+src/data/ov139_data_021bcb98.c:
+    complete
+    .data       start:0x021bcb98 end:0x021bcbf8
+
+src/data/ov139_data_021bcbf8.c:
+    complete
+    .data       start:0x021bcbf8 end:0x021bcc98
+
+src/data/ov139_data_021bcc98.c:
+    complete
+    .data       start:0x021bcc98 end:0x021bcca0

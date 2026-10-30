@@ -22,18 +22,12 @@ func_ov134_021b6c90 kind:function(arm,size=0x7a4) addr:0x021b6c90
 data_ov134_021b7440 kind:data(any) addr:0x021b7440
 data_ov134_021b7442 kind:data(any) addr:0x021b7442
 data_ov134_021b7444 kind:data(any) addr:0x021b7444
-data_ov134_021b7449 kind:data(any) addr:0x021b7449
-data_ov134_021b744e kind:data(any) addr:0x021b744e
 data_ov134_021b7458 kind:data(any) addr:0x021b7458
 data_ov134_021b746c kind:data(any) addr:0x021b746c
-data_ov134_021b7476 kind:data(any) addr:0x021b7476
-data_ov134_021b7482 kind:data(any) addr:0x021b7482
 data_ov134_021b7484 kind:data(any) addr:0x021b7484
 data_ov134_021b748c kind:data(any) addr:0x021b748c
-data_ov134_021b749f kind:data(any) addr:0x021b749f ambiguous
 data_ov134_021b74a0 kind:data(any) addr:0x021b74a0
 data_ov134_021b74b8 kind:data(any) addr:0x021b74b8 ambiguous
-data_ov134_021b74df kind:data(any) addr:0x021b74df ambiguous
 data_ov134_021b74e8 kind:data(any) addr:0x021b74e8
 data_ov134_021b7504 kind:data(any) addr:0x021b7504 ambiguous
 data_ov134_021b7514 kind:data(any) addr:0x021b7514 ambiguous
@@ -44,13 +38,9 @@ data_ov134_021b75ac kind:data(any) addr:0x021b75ac ambiguous
 data_ov134_021b75b0 kind:data(any) addr:0x021b75b0 ambiguous
 data_ov134_021b75e8 kind:data(any) addr:0x021b75e8
 data_ov134_021b7650 kind:data(any) addr:0x021b7650 ambiguous
-data_ov134_021b769f kind:data(any) addr:0x021b769f ambiguous
 data_ov134_021b76fc kind:data(any) addr:0x021b76fc ambiguous
-data_ov134_021b771f kind:data(any) addr:0x021b771f ambiguous
 data_ov134_021b773c kind:data(any) addr:0x021b773c ambiguous
-data_ov134_021b773f kind:data(any) addr:0x021b773f ambiguous
 data_ov134_021b778c kind:data(any) addr:0x021b778c ambiguous
-data_ov134_021b77bf kind:data(any) addr:0x021b77bf ambiguous
 data_ov134_021b77e4 kind:data(any) addr:0x021b77e4 ambiguous
 data_ov134_021b77ec kind:data(any) addr:0x021b77ec ambiguous
 data_ov134_021b77f4 kind:data(any) addr:0x021b77f4 ambiguous
@@ -61,5 +51,3 @@ data_ov134_021b78a0 kind:bss addr:0x021b78a0
 data_ov134_021b78a4 kind:bss addr:0x021b78a4
 data_ov134_021b78a8 kind:bss addr:0x021b78a8
 data_ov134_021b78ac kind:bss addr:0x021b78ac
-data_ov134_021b78ae kind:bss addr:0x021b78ae
-data_ov134_021b78af kind:bss addr:0x021b78af

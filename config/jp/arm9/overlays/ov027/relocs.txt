@@ -318,7 +318,7 @@ from:0x0215b0e4 kind:arm_call to:0x0201102c module:main
 from:0x0215b104 kind:arm_call to:0x02011348 module:main
 from:0x0215b128 kind:load to:0x02158400 module:overlay(27)
 from:0x0215b13c kind:arm_call to:0x02021490 module:main
-from:0x0215b190 kind:load to:0x0215e772 module:overlay(27)
+from:0x0215b190 kind:load to:0x0215e770 add:0x2 module:overlay(27)
 from:0x0215b194 kind:load to:0x0215e770 module:overlay(27)
 from:0x0215b1a8 kind:arm_call to:0x0215b12c module:overlay(27)
 from:0x0215b1b8 kind:arm_call to:0x0215b12c module:overlay(27)

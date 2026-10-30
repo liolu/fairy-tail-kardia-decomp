@@ -144,3 +144,4 @@ data_ov015_0215bfe8 kind:data(any) addr:0x0215bfe8
 data_ov015_0215c028 kind:data(any) addr:0x0215c028
 data_ov015_0215c068 kind:data(any) addr:0x0215c068
 data_ov015_0215c100 kind:bss addr:0x0215c100
+data_ov015_0215bf20 kind:data(any) addr:0x0215bf20

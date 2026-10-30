@@ -18,15 +18,11 @@ func_ov066_021b663c kind:function(arm,size=0x338) addr:0x021b663c
 func_ov066_021b6974 kind:function(arm,size=0x130) addr:0x021b6974
 func_ov066_021b6aa4 kind:function(arm,size=0x758) addr:0x021b6aa4
 data_ov066_021b7200 kind:data(any) addr:0x021b7200
-data_ov066_021b720e kind:data(any) addr:0x021b720e
 data_ov066_021b7218 kind:data(any) addr:0x021b7218
-data_ov066_021b7222 kind:data(any) addr:0x021b7222
 data_ov066_021b722c kind:data(any) addr:0x021b722c
 data_ov066_021b7234 kind:data(any) addr:0x021b7234
 data_ov066_021b724c kind:data(any) addr:0x021b724c
-data_ov066_021b724e kind:data(any) addr:0x021b724e
 data_ov066_021b7260 kind:data(any) addr:0x021b7260
-data_ov066_021b7262 kind:data(any) addr:0x021b7262
 data_ov066_021b727c kind:data(any) addr:0x021b727c
 data_ov066_021b727e kind:data(any) addr:0x021b727e
 data_ov066_021b7280 kind:data(any) addr:0x021b7280
@@ -35,7 +31,6 @@ data_ov066_021b72cc kind:data(any) addr:0x021b72cc
 data_ov066_021b72f4 kind:data(any) addr:0x021b72f4 ambiguous
 data_ov066_021b7320 kind:data(any) addr:0x021b7320 ambiguous
 data_ov066_021b7334 kind:data(any) addr:0x021b7334 ambiguous
-data_ov066_021b733f kind:data(any) addr:0x021b733f ambiguous
 data_ov066_021b7364 kind:data(any) addr:0x021b7364 ambiguous
 data_ov066_021b7390 kind:data(any) addr:0x021b7390 ambiguous
 data_ov066_021b739c kind:data(any) addr:0x021b739c ambiguous
@@ -43,9 +38,7 @@ data_ov066_021b73a4 kind:data(any) addr:0x021b73a4 ambiguous
 data_ov066_021b73ac kind:data(any) addr:0x021b73ac
 data_ov066_021b7410 kind:data(any) addr:0x021b7410 ambiguous
 data_ov066_021b7438 kind:data(any) addr:0x021b7438 ambiguous
-data_ov066_021b749f kind:data(any) addr:0x021b749f ambiguous
 data_ov066_021b74b8 kind:data(any) addr:0x021b74b8 ambiguous
-data_ov066_021b74df kind:data(any) addr:0x021b74df ambiguous
 data_ov066_021b7504 kind:data(any) addr:0x021b7504 ambiguous
 data_ov066_021b7514 kind:data(any) addr:0x021b7514 ambiguous
 data_ov066_021b7554 kind:data(any) addr:0x021b7554 ambiguous
@@ -58,6 +51,3 @@ data_ov066_021b7680 kind:bss addr:0x021b7680
 data_ov066_021b7684 kind:bss addr:0x021b7684
 data_ov066_021b7688 kind:bss addr:0x021b7688
 data_ov066_021b768c kind:bss addr:0x021b768c
-data_ov066_021b768e kind:bss addr:0x021b768e
-data_ov066_021b768f kind:bss addr:0x021b768f
-data_ov066_021b769f kind:bss addr:0x021b769f ambiguous

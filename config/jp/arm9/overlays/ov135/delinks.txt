@@ -2,3 +2,67 @@
     .ctor       start:0x021bc454 end:0x021bc454 kind:rodata align:4
     .data       start:0x021bc460 end:0x021bc8c0 kind:data align:32
     .bss        start:0x021bc8c0 end:0x021bc8e0 kind:bss align:32
+
+src/data/ov135_bss_021bc8c0.c:
+    complete
+    .bss        start:0x021bc8c0 end:0x021bc8c4
+
+src/data/ov135_bss_021bc8c4.c:
+    complete
+    .bss        start:0x021bc8c4 end:0x021bc8c8
+
+src/data/ov135_bss_021bc8c8.c:
+    complete
+    .bss        start:0x021bc8c8 end:0x021bc8e0
+
+src/data/ov135_data_021bc464.c:
+    complete
+    .data       start:0x021bc464 end:0x021bc478
+
+src/data/ov135_data_021bc478.c:
+    complete
+    .data       start:0x021bc478 end:0x021bc4a4
+
+src/data/ov135_data_021bc4a4.c:
+    complete
+    .data       start:0x021bc4a4 end:0x021bc508
+
+src/data/ov135_data_021bc508.c:
+    complete
+    .data       start:0x021bc508 end:0x021bc524
+
+src/data/ov135_data_021bc524.c:
+    complete
+    .data       start:0x021bc524 end:0x021bc574
+
+src/data/ov135_data_021bc574.c:
+    complete
+    .data       start:0x021bc574 end:0x021bc5cc
+
+src/data/ov135_data_021bc5cc.c:
+    complete
+    .data       start:0x021bc5cc end:0x021bc71c
+
+src/data/ov135_data_021bc71c.c:
+    complete
+    .data       start:0x021bc71c end:0x021bc804
+
+src/data/ov135_data_021bc804.c:
+    complete
+    .data       start:0x021bc804 end:0x021bc80c
+
+src/data/ov135_data_021bc80c.c:
+    complete
+    .data       start:0x021bc80c end:0x021bc814
+
+src/data/ov135_data_021bc814.c:
+    complete
+    .data       start:0x021bc814 end:0x021bc838
+
+src/data/ov135_data_021bc838.c:
+    complete
+    .data       start:0x021bc838 end:0x021bc8c0
+
+src/data/ov135_data_021bc460.c:
+    complete
+    .data       start:0x021bc460 end:0x021bc464

@@ -1,0 +1,32 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov103_021bc884[];
+
+u32 data_ov103_021bc9b8[7]  = {0x0BA30BB7, 0x0BBE0BA3, 0x0BC00BBF, 0x0BC20BC1, 0x0BC40BC3, 0x0BB80BC5, 0x0BB90BB9};
+u32 data_ov103_021bc9d4[9]  = {0x0BC90BC8, 0x00000000, (u32) &data_ov103_021bc884,
+                               0x0BC90BC8, 0x00000001, (u32) &data_ov103_021bc884,
+                               0x0BC90BC8, 0x00000002, (u32) &data_ov103_021bc884};
+u32 data_ov103_021bc9f8[11] = {
+    0x0BC90BC8, 0x00000003, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000004, (u32) &data_ov103_021bc884,
+    0x0BC90BC8, 0x00000005, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000006};
+u32 data_ov103_021bca24[15] = {
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000007, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000008,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000009, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000A,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000B};
+u32 data_ov103_021bca60[35] = {
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000C, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000D,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000E, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000000F,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000010, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000011,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000012, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000013,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000014, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000015,
+    (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000016, (u32) &data_ov103_021bc884, 0x0BC90BC8};
+u32 data_ov103_021bcaec[43] = {
+    0x00000017, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000018, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x00000019, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000001A, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x0000001B, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000001C, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x0000001D, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x0000001E, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x0000001F, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000020, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x00000021, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000022, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x00000023, (u32) &data_ov103_021bc884, 0x0BC90BC8, 0x00000024, (u32) &data_ov103_021bc884, 0x0BC90BC8,
+    0x00000025};

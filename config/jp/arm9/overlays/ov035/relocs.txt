@@ -240,7 +240,7 @@ from:0x0215a560 kind:arm_call to:0x0205e644 module:main
 from:0x0215a5e0 kind:arm_call to:0x02011b1c module:main
 from:0x0215a62c kind:arm_call to:0x02011b1c module:main
 from:0x0215a638 kind:load to:0x0215c4a0 module:overlay(35)
-from:0x0215a644 kind:load to:0x0215c372 module:overlay(35)
+from:0x0215a644 kind:load to:0x0215c360 add:0x12 module:overlay(35)
 from:0x0215a648 kind:load to:0x0215c360 module:overlay(35)
 from:0x0215a6e4 kind:arm_call to:0x0201f38c module:main
 from:0x0215a6fc kind:arm_call to:0x020061ac module:main

@@ -20,7 +20,7 @@ from:0x021584f0 kind:arm_call to:0x0202dbe8 module:main
 from:0x021584fc kind:arm_call to:0x0202dbe8 module:main
 from:0x0215850c kind:arm_call to:0x0202dbe8 module:main
 from:0x02158514 kind:load to:0x0215be40 module:overlay(22)
-from:0x021585cc kind:load to:0x0215bdea module:overlay(22)
+from:0x021585cc kind:load to:0x0215bde8 add:0x2 module:overlay(22)
 from:0x021585d0 kind:load to:0x0215bde8 module:overlay(22)
 from:0x02158600 kind:load to:0x0215bd9c module:overlay(22)
 from:0x02158610 kind:load to:0x0215bd9c module:overlay(22)

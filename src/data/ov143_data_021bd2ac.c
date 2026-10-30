@@ -1,0 +1,11 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov143_021bd1c4[];
+
+u32 data_ov143_021bd2ac[28] = {
+    0x10A0109F, 0x00000000, (u32) &data_ov143_021bd1c4, 0x10A0109F, 0x00000001, (u32) &data_ov143_021bd1c4,
+    0x10A0109F, 0x00000002, (u32) &data_ov143_021bd1c4, 0x10A0109F, 0x00000003, (u32) &data_ov143_021bd1c4,
+    0x10A0109F, 0x00000004, (u32) &data_ov143_021bd1c4, 0x10A0109F, 0x00000005, (u32) &data_ov143_021bd1c4,
+    0x10A0109F, 0x00000006, (u32) &data_ov143_021bd1c4, 0x10A0109F, 0x00000007, (u32) &data_ov143_021bd1c4,
+    0x10A0109F, 0x00000008, (u32) &data_ov143_021bd1c4, 0x10A0109F};

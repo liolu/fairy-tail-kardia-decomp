@@ -2,3 +2,79 @@
     .ctor       start:0x021bbd8c end:0x021bbd8c kind:rodata align:4
     .data       start:0x021bbda0 end:0x021bc1c0 kind:data align:32
     .bss        start:0x021bc1c0 end:0x021bc1e0 kind:bss align:32
+
+src/data/ov091_bss_021bc1c0.c:
+    complete
+    .bss        start:0x021bc1c0 end:0x021bc1c4
+
+src/data/ov091_bss_021bc1c4.c:
+    complete
+    .bss        start:0x021bc1c4 end:0x021bc1c8
+
+src/data/ov091_bss_021bc1c8.c:
+    complete
+    .bss        start:0x021bc1c8 end:0x021bc1dc
+
+src/data/ov091_bss_021bc1dc.c:
+    complete
+    .bss        start:0x021bc1dc end:0x021bc1e0
+
+src/data/ov091_data_021bbda0.c:
+    complete
+    .data       start:0x021bbda0 end:0x021bbdbc
+
+src/data/ov091_data_021bbdbc.c:
+    complete
+    .data       start:0x021bbdbc end:0x021bbdcc
+
+src/data/ov091_data_021bbdcc.c:
+    complete
+    .data       start:0x021bbdcc end:0x021bbdf0
+
+src/data/ov091_data_021bbdf0.c:
+    complete
+    .data       start:0x021bbdf0 end:0x021bbea0
+
+src/data/ov091_data_021bbea0.c:
+    complete
+    .data       start:0x021bbea0 end:0x021bbef8
+
+src/data/ov091_data_021bbef8.c:
+    complete
+    .data       start:0x021bbef8 end:0x021bbf1c
+
+src/data/ov091_data_021bbf1c.c:
+    complete
+    .data       start:0x021bbf1c end:0x021bbf28
+
+src/data/ov091_data_021bbf28.c:
+    complete
+    .data       start:0x021bbf28 end:0x021bbf84
+
+src/data/ov091_data_021bbf84.c:
+    complete
+    .data       start:0x021bbf84 end:0x021bbfec
+
+src/data/ov091_data_021bbfec.c:
+    complete
+    .data       start:0x021bbfec end:0x021bc094
+
+src/data/ov091_data_021bc094.c:
+    complete
+    .data       start:0x021bc094 end:0x021bc0c4
+
+src/data/ov091_data_021bc0c4.c:
+    complete
+    .data       start:0x021bc0c4 end:0x021bc0e4
+
+src/data/ov091_data_021bc0e4.c:
+    complete
+    .data       start:0x021bc0e4 end:0x021bc15c
+
+src/data/ov091_data_021bc15c.c:
+    complete
+    .data       start:0x021bc15c end:0x021bc1ac
+
+src/data/ov091_data_021bc1ac.c:
+    complete
+    .data       start:0x021bc1ac end:0x021bc1c0

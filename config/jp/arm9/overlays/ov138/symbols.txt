@@ -19,21 +19,14 @@ func_ov138_021b68e0 kind:function(arm,size=0x538) addr:0x021b68e0
 func_ov138_021b6e18 kind:function(arm,size=0xf4) addr:0x021b6e18
 func_ov138_021b6f0c kind:function(arm,size=0x77c) addr:0x021b6f0c
 data_ov138_021b76a0 kind:data(any) addr:0x021b76a0
-data_ov138_021b76a5 kind:data(any) addr:0x021b76a5
 data_ov138_021b76a8 kind:data(any) addr:0x021b76a8
-data_ov138_021b76b2 kind:data(any) addr:0x021b76b2
 data_ov138_021b76bc kind:data(any) addr:0x021b76bc
-data_ov138_021b76c6 kind:data(any) addr:0x021b76c6
 data_ov138_021b76d4 kind:data(any) addr:0x021b76d4
 data_ov138_021b76e8 kind:data(any) addr:0x021b76e8
-data_ov138_021b76ea kind:data(any) addr:0x021b76ea
 data_ov138_021b76fc kind:data(any) addr:0x021b76fc ambiguous
-data_ov138_021b771f kind:data(any) addr:0x021b771f ambiguous
 data_ov138_021b772c kind:data(any) addr:0x021b772c
 data_ov138_021b773c kind:data(any) addr:0x021b773c ambiguous
-data_ov138_021b773f kind:data(any) addr:0x021b773f ambiguous
 data_ov138_021b778c kind:data(any) addr:0x021b778c ambiguous
-data_ov138_021b77bf kind:data(any) addr:0x021b77bf ambiguous
 data_ov138_021b77e4 kind:data(any) addr:0x021b77e4 ambiguous
 data_ov138_021b77ec kind:data(any) addr:0x021b77ec ambiguous
 data_ov138_021b77f4 kind:data(any) addr:0x021b77f4 ambiguous
@@ -50,7 +43,6 @@ data_ov138_021b7a04 kind:data(any) addr:0x021b7a04 ambiguous
 data_ov138_021b7a40 kind:data(any) addr:0x021b7a40 ambiguous
 data_ov138_021b7acc kind:data(any) addr:0x021b7acc ambiguous
 data_ov138_021b7b78 kind:data(any) addr:0x021b7b78 ambiguous
-data_ov138_021b7bbe kind:data(any) addr:0x021b7bbe ambiguous
 data_ov138_021b7bd8 kind:data(any) addr:0x021b7bd8 ambiguous
 data_ov138_021b7c1c kind:data(any) addr:0x021b7c1c ambiguous
 data_ov138_021b7c78 kind:data(any) addr:0x021b7c78 ambiguous
@@ -58,5 +50,3 @@ data_ov138_021b7c80 kind:bss addr:0x021b7c80
 data_ov138_021b7c84 kind:bss addr:0x021b7c84
 data_ov138_021b7c88 kind:bss addr:0x021b7c88
 data_ov138_021b7c8c kind:bss addr:0x021b7c8c
-data_ov138_021b7c8e kind:bss addr:0x021b7c8e
-data_ov138_021b7c8f kind:bss addr:0x021b7c8f

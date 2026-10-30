@@ -2,3 +2,19 @@
     .ctor       start:0x021c5e60 end:0x021c5e60 kind:rodata align:4
     .data       start:0x021c5e80 end:0x021c5f00 kind:data align:32
     .bss        start:0x021c5f00 end:0x021c5f00 kind:bss align:32
+
+src/data/ov228_data_021c5e80.c:
+    complete
+    .data       start:0x021c5e80 end:0x021c5e88
+
+src/data/ov228_data_021c5e88.c:
+    complete
+    .data       start:0x021c5e88 end:0x021c5e8c
+
+src/data/ov228_data_021c5e8c.c:
+    complete
+    .data       start:0x021c5e8c end:0x021c5e90
+
+src/data/ov228_data_021c5e90.c:
+    complete
+    .data       start:0x021c5e90 end:0x021c5f00

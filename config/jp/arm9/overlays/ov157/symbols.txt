@@ -21,21 +21,15 @@ data_ov157_021b2300 kind:data(any) addr:0x021b2300
 data_ov157_021b2304 kind:data(any) addr:0x021b2304
 data_ov157_021b230c kind:data(any) addr:0x021b230c
 data_ov157_021b2314 kind:data(any) addr:0x021b2314 ambiguous
-data_ov157_021b231f kind:data(any) addr:0x021b231f ambiguous
 data_ov157_021b2324 kind:data(any) addr:0x021b2324
-data_ov157_021b2326 kind:data(any) addr:0x021b2326
-data_ov157_021b2337 kind:data(any) addr:0x021b2337
 data_ov157_021b2344 kind:data(any) addr:0x021b2344 ambiguous
-data_ov157_021b2349 kind:data(any) addr:0x021b2349
 data_ov157_021b2370 kind:data(any) addr:0x021b2370 ambiguous
 data_ov157_021b237c kind:data(any) addr:0x021b237c ambiguous
 data_ov157_021b2384 kind:data(any) addr:0x021b2384 ambiguous
 data_ov157_021b23ac kind:data(any) addr:0x021b23ac
 data_ov157_021b23f0 kind:data(any) addr:0x021b23f0 ambiguous
 data_ov157_021b2418 kind:data(any) addr:0x021b2418 ambiguous
-data_ov157_021b247f kind:data(any) addr:0x021b247f ambiguous
 data_ov157_021b2498 kind:data(any) addr:0x021b2498 ambiguous
-data_ov157_021b24bf kind:data(any) addr:0x021b24bf ambiguous
 data_ov157_021b24e4 kind:data(any) addr:0x021b24e4 ambiguous
 data_ov157_021b24f4 kind:data(any) addr:0x021b24f4 ambiguous
 data_ov157_021b24f8 kind:data(any) addr:0x021b24f8
@@ -45,13 +39,9 @@ data_ov157_021b2544 kind:data(any) addr:0x021b2544 ambiguous
 data_ov157_021b258c kind:data(any) addr:0x021b258c ambiguous
 data_ov157_021b2590 kind:data(any) addr:0x021b2590 ambiguous
 data_ov157_021b2630 kind:data(any) addr:0x021b2630 ambiguous
-data_ov157_021b267f kind:data(any) addr:0x021b267f ambiguous
 data_ov157_021b26dc kind:data(any) addr:0x021b26dc ambiguous
-data_ov157_021b26ff kind:data(any) addr:0x021b26ff ambiguous
 data_ov157_021b271c kind:data(any) addr:0x021b271c ambiguous
-data_ov157_021b271f kind:data(any) addr:0x021b271f ambiguous
 data_ov157_021b276c kind:data(any) addr:0x021b276c ambiguous
-data_ov157_021b279f kind:data(any) addr:0x021b279f ambiguous
 data_ov157_021b27c4 kind:data(any) addr:0x021b27c4 ambiguous
 data_ov157_021b27cc kind:data(any) addr:0x021b27cc ambiguous
 data_ov157_021b27d4 kind:data(any) addr:0x021b27d4 ambiguous
@@ -62,5 +52,3 @@ data_ov157_021b28a0 kind:bss addr:0x021b28a0
 data_ov157_021b28a4 kind:bss addr:0x021b28a4
 data_ov157_021b28a8 kind:bss addr:0x021b28a8
 data_ov157_021b28ac kind:bss addr:0x021b28ac
-data_ov157_021b28ae kind:bss addr:0x021b28ae
-data_ov157_021b28af kind:bss addr:0x021b28af

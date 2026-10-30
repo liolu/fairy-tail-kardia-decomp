@@ -2,3 +2,87 @@
     .ctor       start:0x021b26f8 end:0x021b26f8 kind:rodata align:4
     .data       start:0x021b2700 end:0x021b2be0 kind:data align:32
     .bss        start:0x021b2be0 end:0x021b2c00 kind:bss align:32
+
+src/data/ov105_bss_021b2be0.c:
+    complete
+    .bss        start:0x021b2be0 end:0x021b2be4
+
+src/data/ov105_bss_021b2be4.c:
+    complete
+    .bss        start:0x021b2be4 end:0x021b2be8
+
+src/data/ov105_bss_021b2be8.c:
+    complete
+    .bss        start:0x021b2be8 end:0x021b2bfc
+
+src/data/ov105_bss_021b2bfc.c:
+    complete
+    .bss        start:0x021b2bfc end:0x021b2c00
+
+src/data/ov105_data_021b2700.c:
+    complete
+    .data       start:0x021b2700 end:0x021b2710
+
+src/data/ov105_data_021b2710.c:
+    complete
+    .data       start:0x021b2710 end:0x021b2738
+
+src/data/ov105_data_021b2738.c:
+    complete
+    .data       start:0x021b2738 end:0x021b2744
+
+src/data/ov105_data_021b2744.c:
+    complete
+    .data       start:0x021b2744 end:0x021b2760
+
+src/data/ov105_data_021b2760.c:
+    complete
+    .data       start:0x021b2760 end:0x021b276c
+
+src/data/ov105_data_021b276c.c:
+    complete
+    .data       start:0x021b276c end:0x021b279c
+
+src/data/ov105_data_021b279c.c:
+    complete
+    .data       start:0x021b279c end:0x021b27c4
+
+src/data/ov105_data_021b27c4.c:
+    complete
+    .data       start:0x021b27c4 end:0x021b27cc
+
+src/data/ov105_data_021b27cc.c:
+    complete
+    .data       start:0x021b27cc end:0x021b27d4
+
+src/data/ov105_data_021b27d4.c:
+    complete
+    .data       start:0x021b27d4 end:0x021b27f4
+
+src/data/ov105_data_021b27f4.c:
+    complete
+    .data       start:0x021b27f4 end:0x021b28cc
+
+src/data/ov105_data_021b28cc.c:
+    complete
+    .data       start:0x021b28cc end:0x021b2938
+
+src/data/ov105_data_021b2938.c:
+    complete
+    .data       start:0x021b2938 end:0x021b2978
+
+src/data/ov105_data_021b2978.c:
+    complete
+    .data       start:0x021b2978 end:0x021b29b8
+
+src/data/ov105_data_021b29b8.c:
+    complete
+    .data       start:0x021b29b8 end:0x021b2b58
+
+src/data/ov105_data_021b2b58.c:
+    complete
+    .data       start:0x021b2b58 end:0x021b2bb8
+
+src/data/ov105_data_021b2bb8.c:
+    complete
+    .data       start:0x021b2bb8 end:0x021b2be0

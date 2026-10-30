@@ -2,3 +2,7 @@
     .ctor       start:0x021c5f0c end:0x021c5f0c kind:rodata align:4
     .data       start:0x021c5f20 end:0x021c6180 kind:data align:32
     .bss        start:0x021c6180 end:0x021c6180 kind:bss align:32
+
+src/data/ov232_data_021c5f20.c:
+    complete
+    .data       start:0x021c5f20 end:0x021c6180

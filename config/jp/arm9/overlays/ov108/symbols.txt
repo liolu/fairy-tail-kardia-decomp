@@ -23,23 +23,15 @@ func_ov108_021c0ef4 kind:function(arm,size=0x24) addr:0x021c0ef4
 func_ov108_021c0f18 kind:function(arm,size=0x24) addr:0x021c0f18
 func_ov108_021c0f3c kind:function(arm,size=0x81c) addr:0x021c0f3c
 data_ov108_021c1760 kind:data(any) addr:0x021c1760
-data_ov108_021c1763 kind:data(any) addr:0x021c1763
-data_ov108_021c1766 kind:data(any) addr:0x021c1766
-data_ov108_021c176a kind:data(any) addr:0x021c176a
 data_ov108_021c1770 kind:data(any) addr:0x021c1770
-data_ov108_021c177a kind:data(any) addr:0x021c177a
 data_ov108_021c177c kind:data(any) addr:0x021c177c ambiguous
-data_ov108_021c177f kind:data(any) addr:0x021c177f ambiguous
-data_ov108_021c178e kind:data(any) addr:0x021c178e
 data_ov108_021c1798 kind:data(any) addr:0x021c1798
 data_ov108_021c17a4 kind:data(any) addr:0x021c17a4
 data_ov108_021c17b0 kind:data(any) addr:0x021c17b0
-data_ov108_021c17b2 kind:data(any) addr:0x021c17b2
 data_ov108_021c17c0 kind:data(any) addr:0x021c17c0
 data_ov108_021c17cc kind:data(any) addr:0x021c17cc
 data_ov108_021c17d0 kind:data(any) addr:0x021c17d0
 data_ov108_021c17fc kind:data(any) addr:0x021c17fc
-data_ov108_021c17ff kind:data(any) addr:0x021c17ff ambiguous
 data_ov108_021c1824 kind:data(any) addr:0x021c1824 ambiguous
 data_ov108_021c182c kind:data(any) addr:0x021c182c ambiguous
 data_ov108_021c1834 kind:data(any) addr:0x021c1834 ambiguous
@@ -56,12 +48,9 @@ data_ov108_021c1a44 kind:data(any) addr:0x021c1a44 ambiguous
 data_ov108_021c1a80 kind:data(any) addr:0x021c1a80 ambiguous
 data_ov108_021c1b0c kind:data(any) addr:0x021c1b0c ambiguous
 data_ov108_021c1bb8 kind:data(any) addr:0x021c1bb8 ambiguous
-data_ov108_021c1bfe kind:data(any) addr:0x021c1bfe ambiguous
 data_ov108_021c1c18 kind:data(any) addr:0x021c1c18 ambiguous
 data_ov108_021c1c40 kind:bss addr:0x021c1c40
 data_ov108_021c1c44 kind:bss addr:0x021c1c44
 data_ov108_021c1c48 kind:bss addr:0x021c1c48
 data_ov108_021c1c4c kind:bss addr:0x021c1c4c
-data_ov108_021c1c4e kind:bss addr:0x021c1c4e
-data_ov108_021c1c4f kind:bss addr:0x021c1c4f
 data_ov108_021c1c5c kind:bss addr:0x021c1c5c ambiguous

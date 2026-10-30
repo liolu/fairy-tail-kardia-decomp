@@ -1,0 +1,16 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov085_021b262c[];
+
+u32 data_ov085_021b27f8[7] = {
+    0x09EC09EB, 0x0000000F, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000010, (u32) &data_ov085_021b262c, 0x09EC09EB};
+u32 data_ov085_021b2814[46] = {
+    0x00000011, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000012, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x00000013, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000014, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x00000015, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000016, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x00000017, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000018, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x00000019, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x0000001A, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x0000001B, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x0000001C, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x0000001D, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x0000001E, (u32) &data_ov085_021b262c, 0x09EC09EB,
+    0x0000001F, (u32) &data_ov085_021b262c, 0x09EC09EB, 0x00000020};

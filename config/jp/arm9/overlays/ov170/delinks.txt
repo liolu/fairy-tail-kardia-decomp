@@ -2,3 +2,87 @@
     .ctor       start:0x021b7730 end:0x021b7730 kind:rodata align:4
     .data       start:0x021b7740 end:0x021b7c60 kind:data align:32
     .bss        start:0x021b7c60 end:0x021b7c80 kind:bss align:32
+
+src/data/ov170_bss_021b7c60.c:
+    complete
+    .bss        start:0x021b7c60 end:0x021b7c64
+
+src/data/ov170_bss_021b7c64.c:
+    complete
+    .bss        start:0x021b7c64 end:0x021b7c68
+
+src/data/ov170_bss_021b7c68.c:
+    complete
+    .bss        start:0x021b7c68 end:0x021b7c78
+
+src/data/ov170_bss_021b7c78.c:
+    complete
+    .bss        start:0x021b7c78 end:0x021b7c80
+
+src/data/ov170_data_021b7740.c:
+    complete
+    .data       start:0x021b7740 end:0x021b776c
+
+src/data/ov170_data_021b776c.c:
+    complete
+    .data       start:0x021b776c end:0x021b778c
+
+src/data/ov170_data_021b778c.c:
+    complete
+    .data       start:0x021b778c end:0x021b779c
+
+src/data/ov170_data_021b779c.c:
+    complete
+    .data       start:0x021b779c end:0x021b77d4
+
+src/data/ov170_data_021b77d8.c:
+    complete
+    .data       start:0x021b77d8 end:0x021b77e4
+
+src/data/ov170_data_021b77e4.c:
+    complete
+    .data       start:0x021b77e4 end:0x021b77ec
+
+src/data/ov170_data_021b77ec.c:
+    complete
+    .data       start:0x021b77ec end:0x021b77f4
+
+src/data/ov170_data_021b77f4.c:
+    complete
+    .data       start:0x021b77f4 end:0x021b7818
+
+src/data/ov170_data_021b7818.c:
+    complete
+    .data       start:0x021b7818 end:0x021b78ec
+
+src/data/ov170_data_021b78ec.c:
+    complete
+    .data       start:0x021b78ec end:0x021b792c
+
+src/data/ov170_data_021b792c.c:
+    complete
+    .data       start:0x021b792c end:0x021b7998
+
+src/data/ov170_data_021b7998.c:
+    complete
+    .data       start:0x021b7998 end:0x021b79d8
+
+src/data/ov170_data_021b79d8.c:
+    complete
+    .data       start:0x021b79d8 end:0x021b7b78
+
+src/data/ov170_data_021b7b78.c:
+    complete
+    .data       start:0x021b7b78 end:0x021b7bd8
+
+src/data/ov170_data_021b7bd8.c:
+    complete
+    .data       start:0x021b7bd8 end:0x021b7c1c
+
+src/data/ov170_data_021b7c1c.c:
+    complete
+    .data       start:0x021b7c1c end:0x021b7c60
+
+src/data/ov170_data_021b77d4.c:
+    complete
+    .data       start:0x021b77d4 end:0x021b77d8

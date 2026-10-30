@@ -2,3 +2,91 @@
     .ctor       start:0x021c1f24 end:0x021c1f24 kind:rodata align:4
     .data       start:0x021c1f40 end:0x021c2960 kind:data align:32
     .bss        start:0x021c2960 end:0x021c2980 kind:bss align:32
+
+src/data/ov076_bss_021c2960.c:
+    complete
+    .bss        start:0x021c2960 end:0x021c2964
+
+src/data/ov076_bss_021c2964.c:
+    complete
+    .bss        start:0x021c2964 end:0x021c2968
+
+src/data/ov076_bss_021c2968.c:
+    complete
+    .bss        start:0x021c2968 end:0x021c2980
+
+src/data/ov076_data_021c1f40.c:
+    complete
+    .data       start:0x021c1f40 end:0x021c1f60
+
+src/data/ov076_data_021c1f60.c:
+    complete
+    .data       start:0x021c1f60 end:0x021c1f74
+
+src/data/ov076_data_021c1f74.c:
+    complete
+    .data       start:0x021c1f74 end:0x021c1f88
+
+src/data/ov076_data_021c1f88.c:
+    complete
+    .data       start:0x021c1f88 end:0x021c1f94
+
+src/data/ov076_data_021c1fa4.c:
+    complete
+    .data       start:0x021c1fa4 end:0x021c1fe0
+
+src/data/ov076_data_021c1fe0.c:
+    complete
+    .data       start:0x021c1fe0 end:0x021c2008
+
+src/data/ov076_data_021c2008.c:
+    complete
+    .data       start:0x021c2008 end:0x021c2040
+
+src/data/ov076_data_021c2040.c:
+    complete
+    .data       start:0x021c2040 end:0x021c2070
+
+src/data/ov076_data_021c2070.c:
+    complete
+    .data       start:0x021c2070 end:0x021c2088
+
+src/data/ov076_data_021c208c.c:
+    complete
+    .data       start:0x021c208c end:0x021c2118
+
+src/data/ov076_data_021c2118.c:
+    complete
+    .data       start:0x021c2118 end:0x021c2160
+
+src/data/ov076_data_021c2160.c:
+    complete
+    .data       start:0x021c2160 end:0x021c233c
+
+src/data/ov076_data_021c233c.c:
+    complete
+    .data       start:0x021c233c end:0x021c23bc
+
+src/data/ov076_data_021c23bc.c:
+    complete
+    .data       start:0x021c23bc end:0x021c2448
+
+src/data/ov076_data_021c2448.c:
+    complete
+    .data       start:0x021c2448 end:0x021c2960
+
+src/data/ov076_data_021c1f94.c:
+    complete
+    .data       start:0x021c1f94 end:0x021c1f95
+
+src/data/ov076_data_021c1f95.c:
+    complete
+    .data       start:0x021c1f95 end:0x021c1f96
+
+src/data/ov076_data_021c1f96.c:
+    complete
+    .data       start:0x021c1f96 end:0x021c1fa3
+
+src/data/ov076_data_021c1fa3.c:
+    complete
+    .data       start:0x021c1fa3 end:0x021c1fa4

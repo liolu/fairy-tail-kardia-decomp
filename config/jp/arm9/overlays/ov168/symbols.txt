@@ -22,17 +22,10 @@ func_ov168_021c0dfc kind:function(arm,size=0x104) addr:0x021c0dfc
 func_ov168_021c0f00 kind:function(arm,size=0xac) addr:0x021c0f00
 func_ov168_021c0fac kind:function(arm,size=0x7f4) addr:0x021c0fac
 data_ov168_021c17c0 kind:data(any) addr:0x021c17c0
-data_ov168_021c17c1 kind:data(any) addr:0x021c17c1
-data_ov168_021c17c7 kind:data(any) addr:0x021c17c7
 data_ov168_021c17c8 kind:data(any) addr:0x021c17c8
-data_ov168_021c17c9 kind:data(any) addr:0x021c17c9
 data_ov168_021c17cc kind:data(any) addr:0x021c17cc
-data_ov168_021c17d6 kind:data(any) addr:0x021c17d6
 data_ov168_021c17e0 kind:data(any) addr:0x021c17e0
-data_ov168_021c17ea kind:data(any) addr:0x021c17ea
-data_ov168_021c17ff kind:data(any) addr:0x021c17ff ambiguous
 data_ov168_021c1800 kind:data(any) addr:0x021c1800
-data_ov168_021c1802 kind:data(any) addr:0x021c1802
 data_ov168_021c180c kind:data(any) addr:0x021c180c
 data_ov168_021c180e kind:data(any) addr:0x021c180e
 data_ov168_021c1810 kind:data(any) addr:0x021c1810
@@ -53,7 +46,6 @@ data_ov168_021c1a44 kind:data(any) addr:0x021c1a44 ambiguous
 data_ov168_021c1a80 kind:data(any) addr:0x021c1a80 ambiguous
 data_ov168_021c1b0c kind:data(any) addr:0x021c1b0c ambiguous
 data_ov168_021c1bb8 kind:data(any) addr:0x021c1bb8 ambiguous
-data_ov168_021c1bfe kind:data(any) addr:0x021c1bfe ambiguous
 data_ov168_021c1c18 kind:data(any) addr:0x021c1c18 ambiguous
 data_ov168_021c1c5c kind:data(any) addr:0x021c1c5c ambiguous
 data_ov168_021c1cb8 kind:data(any) addr:0x021c1cb8 ambiguous

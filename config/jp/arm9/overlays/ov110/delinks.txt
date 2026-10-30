@@ -2,3 +2,79 @@
     .ctor       start:0x021b7bb4 end:0x021b7bb4 kind:rodata align:4
     .data       start:0x021b7bc0 end:0x021b82a0 kind:data align:32
     .bss        start:0x021b82a0 end:0x021b82c0 kind:bss align:32
+
+src/data/ov110_bss_021b82a0.c:
+    complete
+    .bss        start:0x021b82a0 end:0x021b82a4
+
+src/data/ov110_bss_021b82a4.c:
+    complete
+    .bss        start:0x021b82a4 end:0x021b82a8
+
+src/data/ov110_bss_021b82a8.c:
+    complete
+    .bss        start:0x021b82a8 end:0x021b82c0
+
+src/data/ov110_data_021b7bc0.c:
+    complete
+    .data       start:0x021b7bc0 end:0x021b7bd8
+
+src/data/ov110_data_021b7bd8.c:
+    complete
+    .data       start:0x021b7bd8 end:0x021b7bf0
+
+src/data/ov110_data_021b7c18.c:
+    complete
+    .data       start:0x021b7c18 end:0x021b7c1c
+
+src/data/ov110_data_021b7c1c.c:
+    complete
+    .data       start:0x021b7c1c end:0x021b7c30
+
+src/data/ov110_data_021b7c30.c:
+    complete
+    .data       start:0x021b7c30 end:0x021b7c58
+
+src/data/ov110_data_021b7c5c.c:
+    complete
+    .data       start:0x021b7c5c end:0x021b7e44
+
+src/data/ov110_data_021b7e44.c:
+    complete
+    .data       start:0x021b7e44 end:0x021b8030
+
+src/data/ov110_data_021b8030.c:
+    complete
+    .data       start:0x021b8030 end:0x021b8120
+
+src/data/ov110_data_021b8120.c:
+    complete
+    .data       start:0x021b8120 end:0x021b82a0
+
+src/data/ov110_data_021b7c58.c:
+    complete
+    .data       start:0x021b7c58 end:0x021b7c5c
+
+src/data/ov110_data_021b7bf0.c:
+    complete
+    .data       start:0x021b7bf0 end:0x021b7bfa
+
+src/data/ov110_data_021b7bfa.c:
+    complete
+    .data       start:0x021b7bfa end:0x021b7bfb
+
+src/data/ov110_data_021b7bfb.c:
+    complete
+    .data       start:0x021b7bfb end:0x021b7c08
+
+src/data/ov110_data_021b7c08.c:
+    complete
+    .data       start:0x021b7c08 end:0x021b7c09
+
+src/data/ov110_data_021b7c09.c:
+    complete
+    .data       start:0x021b7c09 end:0x021b7c0a
+
+src/data/ov110_data_021b7c0a.c:
+    complete
+    .data       start:0x021b7c0a end:0x021b7c18

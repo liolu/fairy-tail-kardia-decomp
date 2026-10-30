@@ -23,17 +23,11 @@ func_ov151_021bbaa4 kind:function(arm,size=0x124) addr:0x021bbaa4
 func_ov151_021bbbc8 kind:function(arm,size=0xc8) addr:0x021bbbc8
 func_ov151_021bbc90 kind:function(arm,size=0x824) addr:0x021bbc90
 data_ov151_021bc4c0 kind:data(any) addr:0x021bc4c0
-data_ov151_021bc4c5 kind:data(any) addr:0x021bc4c5
-data_ov151_021bc4d2 kind:data(any) addr:0x021bc4d2
 data_ov151_021bc4d8 kind:data(any) addr:0x021bc4d8 ambiguous
 data_ov151_021bc4dc kind:data(any) addr:0x021bc4dc
-data_ov151_021bc4e2 kind:data(any) addr:0x021bc4e2 ambiguous
-data_ov151_021bc4e6 kind:data(any) addr:0x021bc4e6
 data_ov151_021bc4f0 kind:data(any) addr:0x021bc4f0
 data_ov151_021bc4f8 kind:data(any) addr:0x021bc4f8
-data_ov151_021bc4ff kind:data(any) addr:0x021bc4ff ambiguous
 data_ov151_021bc510 kind:data(any) addr:0x021bc510
-data_ov151_021bc512 kind:data(any) addr:0x021bc512
 data_ov151_021bc524 kind:data(any) addr:0x021bc524 ambiguous
 data_ov151_021bc534 kind:data(any) addr:0x021bc534 ambiguous
 data_ov151_021bc554 kind:data(any) addr:0x021bc554
@@ -44,13 +38,9 @@ data_ov151_021bc5cc kind:data(any) addr:0x021bc5cc ambiguous
 data_ov151_021bc5d0 kind:data(any) addr:0x021bc5d0 ambiguous
 data_ov151_021bc658 kind:data(any) addr:0x021bc658
 data_ov151_021bc670 kind:data(any) addr:0x021bc670 ambiguous
-data_ov151_021bc6bf kind:data(any) addr:0x021bc6bf ambiguous
 data_ov151_021bc71c kind:data(any) addr:0x021bc71c ambiguous
-data_ov151_021bc73f kind:data(any) addr:0x021bc73f ambiguous
 data_ov151_021bc75c kind:data(any) addr:0x021bc75c ambiguous
-data_ov151_021bc75f kind:data(any) addr:0x021bc75f ambiguous
 data_ov151_021bc7ac kind:data(any) addr:0x021bc7ac ambiguous
-data_ov151_021bc7df kind:data(any) addr:0x021bc7df ambiguous
 data_ov151_021bc804 kind:data(any) addr:0x021bc804 ambiguous
 data_ov151_021bc80c kind:data(any) addr:0x021bc80c ambiguous
 data_ov151_021bc814 kind:data(any) addr:0x021bc814 ambiguous
@@ -61,5 +51,3 @@ data_ov151_021bc8e0 kind:bss addr:0x021bc8e0
 data_ov151_021bc8e4 kind:bss addr:0x021bc8e4
 data_ov151_021bc8e8 kind:bss addr:0x021bc8e8
 data_ov151_021bc8ec kind:bss addr:0x021bc8ec
-data_ov151_021bc8ee kind:bss addr:0x021bc8ee
-data_ov151_021bc8ef kind:bss addr:0x021bc8ef

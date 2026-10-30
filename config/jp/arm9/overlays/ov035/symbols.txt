@@ -121,7 +121,6 @@ data_ov035_0215c2c0 kind:data(any) addr:0x0215c2c0
 data_ov035_0215c2f0 kind:data(any) addr:0x0215c2f0
 data_ov035_0215c320 kind:data(any) addr:0x0215c320
 data_ov035_0215c360 kind:data(any) addr:0x0215c360
-data_ov035_0215c372 kind:data(any) addr:0x0215c372
 data_ov035_0215c388 kind:data(any) addr:0x0215c388
 data_ov035_0215c3a0 kind:data(any) addr:0x0215c3a0
 data_ov035_0215c3a4 kind:data(any) addr:0x0215c3a4
