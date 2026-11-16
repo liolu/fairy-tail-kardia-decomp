@@ -8115,3 +8115,43 @@ src/data/main_rodata_0205f4ce.c:
 src/data/main_rodata_0205f4cf.c:
     complete
     .rodata     start:0x0205f4cf end:0x0205f4f0
+
+src/auto/func_020055d0.c:
+    complete
+    .text       start:0x020055d0 end:0x020055fc
+
+src/auto/func_02005634.c:
+    complete
+    .text       start:0x02005634 end:0x0200566c
+
+src/auto/func_02015770.c:
+    complete
+    .text       start:0x02015770 end:0x02015794
+
+src/auto/func_02019a14.c:
+    complete
+    .text       start:0x02019a14 end:0x02019a6c
+
+src/auto/func_02019b24.c:
+    complete
+    .text       start:0x02019b24 end:0x02019b7c
+
+src/auto/func_02019bf4.c:
+    complete
+    .text       start:0x02019bf4 end:0x02019c4c
+
+src/auto/func_02019cc4.c:
+    complete
+    .text       start:0x02019cc4 end:0x02019d1c
+
+src/auto/func_0201cbac.c:
+    complete
+    .text       start:0x0201cbac end:0x0201cbfc
+
+src/auto/func_0202fafc.c:
+    complete
+    .text       start:0x0202fafc end:0x0202fb54
+
+src/auto/func_0203b924.c:
+    complete
+    .text       start:0x0203b924 end:0x0203b960
